@@ -1,0 +1,27 @@
+[
+    {
+      "id": "01",
+      "name": "Java"
+    },
+    {
+      "id": "02",
+      "name": "C Programming"
+    },
+    {
+      "id": "03",
+      "name": "Python"
+    },
+    {
+      "id": "04",
+      "name": "Javascript"
+    },
+    {
+      "id": "05",
+      "name": "Mongo DB"
+    },
+    {
+      "id": "06",
+      "name": "Kotlin"
+    }
+    
+  ]
