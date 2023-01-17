@@ -3,6 +3,7 @@ const app = express()
 const cors = require('cors')
 const port = process.env.Port || 5000;
 
+// middleware
 app.use(cors());
 
 const categories = require('./data/categories.json');
